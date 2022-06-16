@@ -1,4 +1,4 @@
-class OrderedDoublyLinkedList extends LinkedList {
+class DoulyOrderedLinkedList extends LinkedList {
     constructor() {
         super();
     }
